@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"lib",
+			""
+		],
+		"java.project.referencedLibraries": [
+			"c:\\Users\\siran\\Downloads\\jdbc drivers\\mariadb-java-client-3.3.3.jar",
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.exceptionBreakpoint.skipClasses": [
+
+		]
+	}
+}
